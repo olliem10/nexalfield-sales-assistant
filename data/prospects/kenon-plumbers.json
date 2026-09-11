@@ -1,92 +1,262 @@
 {
   "id": "kenon-plumbers",
   "companyName": "Kenon Plumbers Merchants",
-  "businessType": "Plumbers Merchant",
-  "location": "SW14",
-  "contactName": "Kenon",
-  "phone": "020 0000 0000",
+  "businessType": "Plumbers' Merchant",
+  "location": "SE1",
+  "contactName": "Sam",
+  "phone": "020 7703 4970",
   "website": "",
-  "social": "Facebook page, last posted a while ago",
-  "googleBusinessProfile": "Yes — listed with reviews",
+  "social": "None found under the business name — no Facebook, Instagram or LinkedIn",
+  "googleBusinessProfile": "Unclaimed — 4.5★ from 57 reviews, but miscategorised as \"General Contractor\" instead of \"Plumbers' Merchant\"; profile shows an \"Own this business?\" prompt",
   "websiteStatus": "none",
-  "websiteObservations": "No website found. Google Business Profile is the only real presence, plus a Facebook page that hasn't been updated recently. Nowhere for a customer to see stock, opening hours, delivery or trade account information.",
+  "websiteObservations": "No website of any kind — the Google Business Profile itself still shows an \"Add website\" prompt, and no domain surfaces on any search or directory. The profile is unclaimed (\"Own this business?\"), filed under the wrong category, and a sponsored Wolseley/Plumb Centre advert currently appears above Kenon's own listing when searching the business by name. Despite all that, Kenon ranks #1 in the Google map pack for \"plumbers merchants near Old Kent Road\" and holds 4.5 stars from 57 reviews — strong reputation, zero ownership of it. Yell listing is separately unclaimed with 0 ratings. Opening hours are inconsistent across Google, Yell and MapQuest.",
   "opportunity": "high",
-  "isExample": true,
   "source": "file",
   "research": {
-    "summary": "Independent plumbers merchant serving trade and walk-in customers in the SW14 area. Long-standing local business with a solid reputation on Google, but no website at all — everything online rests on the Google listing and an inactive Facebook page. Trade customers and local landlords looking for stock, opening times or a trade account have nowhere to go except the phone.",
+    "summary": "Independent, single-site plumbers' merchant at 360 Old Kent Road, SE1, incorporated 22 November 1976 and trading from the same address ever since — fifty years this November. Three staff, run by founding director Kenneth Bowden (87, still on the board) alongside Samuel Larking (42, appointed director 2016, the only new appointment in three decades) and company secretary Tina Mills (in post since 1991, almost certainly the voice on the phone). Genuinely well regarded — #1 in the Google map pack, 4.5 stars from 57 reviews, better than every nearby rival except one three miles away — but owns none of that presence: no website, unclaimed and miscategorised Google listing, and a national chain (Wolseley's Plumb Centre, half a mile away, 9 reviews at 4.2) currently paying Google to appear above Kenon's own listing when someone searches Kenon by name. Financially a genuine micro-business (net worth £82.6k, cash at bank £22,625, down from £33,511 in 2023) but clearly investing rather than winding down: it bought the freehold of its own shop floor in 2024 for £318,000 and brought a successor onto the board in 2016.",
     "observations": [
-      "No website of any kind — searching the name returns the Google listing and directory entries",
-      "Google Business Profile is claimed and has genuine reviews",
-      "Facebook page exists but hasn't been posted on recently",
-      "Nearby merchants and the national chains all have sites showing stock and opening hours",
-      "Business appears well established and busy during weekday mornings"
+      "Ranks #1 in the Google map pack for \"plumbers merchants near Old Kent Road\", above Plumb Centre and M&O — not invisible, contrary to the usual cold-call assumption",
+      "4.5 stars from 57 Google reviews — better than every nearby merchant except M&O (4.8/52, three miles away)",
+      "Google Business Profile is unclaimed — shows \"Own this business?\"; anyone could currently suggest an edit to hours, phone or address",
+      "Google category is wrong — listed as \"General Contractor\", not \"Plumbers' Merchant\"; both nearby rivals are correctly categorised",
+      "A sponsored Wolseley/Plumb Centre advert appears above Kenon's own listing when searching Kenon's name by itself — Plumb Centre has 9 reviews at 4.2 against Kenon's 57 at 4.5",
+      "Yell listing is separately unclaimed, showing 0 ratings despite 57 on Google",
+      "Opening hours are inconsistent across Google, Yell and MapQuest; a fax number is still published on one trade directory",
+      "Incorporated 22 Nov 1976, still trading from the same address — 49 years, turning 50 in November 2026",
+      "Bought the freehold of the ground floor and basement of its own premises in 2024 for £318,000 — a business investing in its next 20 years, not winding down",
+      "A successor director (Sam Larking, 42) was appointed in 2016 — the only new board appointment in three decades"
     ],
     "problems": [
-      "Nowhere for a customer to check opening hours, delivery or whether something is in stock",
-      "Every enquiry has to come through the phone, which is a job on a busy trade counter",
-      "New trade customers have no way to see what the business offers before turning up",
-      "Recommendations get searched for and find almost nothing"
+      "Every enquiry outside 08:30–17:30 goes nowhere — no way to place an order or check stock out of hours",
+      "Chains nearby (Selco, Toolstation, Wolseley) open 07:00–07:30; Kenon opens 08:30, losing the early-morning van trade with no way to pre-order the night before",
+      "Letting agents and property managers vetting a new supplier online find nothing to check Kenon against before opening a trade account",
+      "Three staff run everything through one landline and one counter — every phone enquiry interrupts a customer being served",
+      "57 positive reviews sit on a profile Kenon doesn't control and has never replied to — their strongest sales asset is doing no active work",
+      "Thirty-five years of manual invoicing, statements and account chasing (company secretary since 1991) — real, but a second-conversation topic, not a cold-call pitch"
     ],
     "opportunities": [
-      "Simple site covering what they stock, hours, location, delivery and trade accounts",
-      "An enquiry form that takes pressure off the counter phone",
-      "Something to link from the Google listing so searches land somewhere useful",
-      "Competitors in the area already have this — it's a gap, not a luxury"
+      "A single page — stock, hours, reviews, contact — gives the Wolseley ad something to lose the click to",
+      "Free, immediate win available regardless of sale: correcting the wrong Google category, unconditionally",
+      "A night-before order/enquiry form would recover early-morning trade currently going to Selco and Toolstation",
+      "~20,000 new homes planned for Old Kent Road (Southwark's Opportunity Area) — new residents with no word-of-mouth relationship to Kenon at all",
+      "50th trading anniversary in November 2026 — a genuine, non-manufactured reason to build something now, not a manufactured deadline",
+      "Reviews (4.5/57) beat the nearby chain (4.2/9) on every visible measure — the gap is visibility, not quality"
     ],
     "talkingPoints": [
-      "People are already searching for them — the reviews prove it",
-      "The phone is doing a job a web page could do for free, all day",
-      "Trade customers want opening hours and stock before they drive over",
-      "Not about a fancy site — about not losing the people who already looked them up"
+      "Someone types your name into Google and the first thing they see is an advert for Plumb Centre down the road — they're paying for that, and only getting away with it because there's nothing of yours to land on",
+      "You've got fifty-seven reviews at four and a half stars. Plumb Centre's got nine at four point two. You're winning that on quality and losing it on visibility",
+      "Google's got you filed as a general contractor, not a plumbers' merchant — I'll get that fixed for free either way, it shouldn't be wrong",
+      "You're fifty years old on this road in November — half a century, and there's nowhere anyone can read that",
+      "Selco and Toolstation open at seven, you open at half eight — if a plumber could put his list in at nine at night, he'd come to you instead of them"
     ],
     "notes": [
-      "EXAMPLE DATASET — written to demonstrate the tool, not researched",
-      "Independent, not part of a chain, so decisions are likely made by the owner",
-      "Best time to ring is probably mid-morning after the early trade rush"
+      "REAL RESEARCH — sourced from Companies House, Google, Yell and Southwark Council records, compiled 6 Sep 2026. This replaces the earlier placeholder example data that lived in this file.",
+      "Ask for Sam (Samuel Larking, director since 2016, age 42) by first name — he works the shop floor and is the buyer. Kenneth Bowden (founder, 87, still a director) is a veto, not a buyer — be warm and brief if he answers, then ask for Sam. Tina Mills (company secretary since 1991) usually answers the phone — treat her as an ally, not an obstacle.",
+      "Best time to call: Tuesday–Thursday 10:00–11:30, or Saturday after 14:00 (open till 5, usually quiet). Avoid 08:30–09:30 (van rush) and 12:00–13:30.",
+      "Before dialling: have the Google search for \"Kenon Plumbers Merchants\" open on screen with the Plumb Centre advert visible, so a screenshot can be sent within the hour if asked.",
+      "Never open with \"you don't have a website\" or \"you're invisible online\" — both are the standard opener they've heard for decades, and the second is factually wrong (they're the #1 map result). It will cost credibility in one sentence.",
+      "Honest odds from the research: roughly 8/10 chance of getting through (three people, one landline, no switchboard), 4/10 of booking a meeting (rises to 6/10 if you reach Sam and open with the Wolseley ad, drops to 2/10 if you get Ken or lead with \"website\"), 3/10 of closing on this call (cash at bank is £22.6k, down from £33.5k in 2023 — real money to them). Execute precisely; don't assume this one is easy.",
+      "Never mention the £75/month or £50/month products on this call — cash is tight and it changes the offer from a small one-off to an ongoing commitment. Sell the £400 only, unless they raise spreading the cost themselves."
     ]
   },
   "script": {
-    "opening": "Hi, is that Kenon? It's Ollie calling from NexalField. I know this is out of the blue so I'll keep it really quick — I was looking at your business online and noticed you don't seem to have a website, and I had an idea I thought could be useful for you. Have I caught you at an alright time for thirty seconds?",
-    "hook": "I build websites for local businesses around SW14. The reason I rang you specifically is that you've clearly got people searching for you — you've got the reviews on Google — but when they find you there's nowhere to see what you stock, what your hours are or whether you deliver. For a merchants that's usually a lot of phone calls that didn't need to happen. Can I ask you something quickly?",
-    "valueStatement": "The reason I noticed you specifically is that you've already got people searching for you and ringing you — that's the hard part and you're doing it. What's missing is somewhere they can land and see what you stock, when you're open and whether you deliver, without tying up your counter phone. That's the whole job really — not a fancy website, just somewhere for the people who are already looking.",
-    "demoOffer": "What I'd actually like to do is put together a quick example for Kenon Plumbers Merchants — your stock, your hours, the area you cover. It takes me about fifteen minutes and then I can show you exactly what I had in mind. If you like it, great. If you don't, no problem at all.",
+    "opening": "Morning — is that {{firstName}}? ... You don't know me, and I'll be straight with you — this is a cold call. Give me thirty seconds, and if it's not useful I'll go away. Alright?",
+    "hook": "I typed \"Kenon Plumbers Merchants\" into Google this morning. Before your own listing came up, there was a paid advert for Plumb Centre on Marlborough Grove — a Wolseley branch half a mile away. They're paying Google to sit above you when someone's specifically searching for you. And here's the thing — they've got nine reviews at four point two. You've got fifty-seven at four and a half. You're better than them by every measure a customer can see, and they're still getting the click, because there's nothing of yours to click on instead.",
+    "valueStatement": "What I do is small and specific. One page that says who you are, what you stock, your hours and your reviews, with a way for a plumber to send his list over the night before so it's on the counter when he gets there. That's it — nothing you don't need.",
+    "demoOffer": "Here's what I'd suggest. Separate from all that — your Google listing is filed under \"general contractor\" instead of plumbers' merchant, and it's unclaimed. I'll get that corrected for you either way, no charge, whether you go any further with me or not. On top of that, give me till Thursday and I'll put together what your actual page would look like — your stock, your reviews, your name on it. Fifteen minutes on the phone, you look at it, you tell me yes or no.",
+    "pricing": "It's four hundred pounds, once. That's less than a day's takings, and there's nothing monthly attached to it. I'll build it, show you, and you only pay if you want to keep it.",
     "discovery": [
       {
         "id": "kenon-how-found",
-        "question": "How do customers normally find you at the moment — is it mostly trade who already know you, or do you get new people coming in?",
-        "why": "Easy opener and it tells you whether they're relying entirely on regulars.",
-        "listenFor": [
-          "\"Mostly regulars\" — ask what happens when a regular retires or moves",
-          "\"People find us on Google\" — that's the opening"
-        ]
+        "question": "Where does a new customer usually come from — recommendation, or do people just walk in off the road?",
+        "why": "Rapport opener. If the answer is \"recommendation\", it sets up the next question about the new flats going up nearby.",
+        "listenFor": ["\"Recommendation\" is the setup — nobody moving into the new flats has anyone to recommend Kenon yet"]
       },
       {
-        "id": "kenon-phone",
-        "question": "Do you get a lot of people ringing up just to ask what's in stock or what time you're open?",
-        "why": "This is the pain point for a merchant. Let them describe it themselves.",
-        "listenFor": [
-          "Any sigh or laugh here is the sale",
-          "\"All day\" — that's the value statement written for you"
-        ]
+        "id": "kenon-trade-or-retail",
+        "question": "Are you mostly trade accounts, or a fair bit of retail off the street?",
+        "why": "Confirms who the site actually needs to speak to before promising the wrong thing.",
+        "listenFor": ["A trade-heavy answer supports the night-before-order angle"]
       },
       {
-        "id": "kenon-ask-site",
-        "question": "Do customers ever ask whether you've got a website?",
-        "why": "Lets them tell you about the gap rather than you pointing it out.",
-        "listenFor": ["\"Now and then\" is a yes"]
+        "id": "kenon-phone-load",
+        "question": "How much of your day ends up going on the phone answering \"have you got X in stock\" calls?",
+        "why": "Surfaces the operational pain — three staff, one counter, one landline — in their own words.",
+        "listenFor": ["Any sigh or \"more than you'd think\" is the value statement written for you"]
       },
       {
-        "id": "kenon-trade-accounts",
-        "question": "Do you do trade accounts or deliveries? How do people normally find that out?",
-        "why": "Surfaces the information that's currently locked in someone's head.",
-        "listenFor": ["If the answer is 'they ring and ask', that's the problem in one sentence"]
+        "id": "kenon-new-accounts",
+        "question": "How many new trade accounts have you opened in the last twelve months?",
+        "why": "The letting-agent angle. Whatever number he gives, don't react — let the silence do the work.",
+        "listenFor": ["A low or vague number is the opening for the \"never rings to say they went elsewhere\" line"]
       },
       {
-        "id": "kenon-more-work",
-        "question": "Are you looking to bring in more trade customers at the moment, or are you comfortable as you are?",
-        "why": "Qualifies honestly. If they're flat out, say so and exit well.",
-        "listenFor": ["\"We'd always take more\" — move to the value statement"]
+        "id": "kenon-night-before",
+        "question": "If a plumber could send his list over the night before, would you fill it in the morning?",
+        "why": "Makes the 7am-van problem concrete and gets a yes on the exact feature being offered.",
+        "listenFor": ["Any \"yeah, course\" is effectively a purchase signal"]
+      },
+      {
+        "id": "kenon-new-flats",
+        "question": "Do the new flats going up round here buy from you at all yet?",
+        "why": "Surfaces the regeneration opportunity without sounding like a lecture on demographics.",
+        "listenFor": ["\"Not really\" or \"too early to say\" supports the 20,000-new-homes talking point"]
+      }
+    ],
+    "extraObjections": [
+      {
+        "id": "kenon-49-years-fine",
+        "objection": "We've done fine for forty-nine years without one.",
+        "meaning": "A statement of pride, not a closed door. Never contradict the history — agree with it completely before adding anything.",
+        "response": "And that's the point — you've built something most places on this road didn't survive to build. I'm not suggesting you change how you trade. I'm suggesting the people moving into the twenty thousand new flats can't ask a neighbour about you, because they haven't got one yet.",
+        "likelyReply": "Suppose that's true. / We'll see.",
+        "followUp": "Move into discovery: ask how many new trade accounts have opened in the last year.",
+        "whenToStop": "If he's adamant nothing needs to change and isn't interested in new custom, accept it — a business that's genuinely full and happy is not a fit."
+      },
+      {
+        "id": "kenon-trade-dont-use-websites",
+        "objection": "Our customers are trade. They don't use websites.",
+        "meaning": "True of the regulars, not true of the account he hasn't opened yet. Concede the man in front of him, take the point about everyone else.",
+        "response": "The regulars don't, you're right. But that plumber has your number in his phone and Toolstation's app on his home screen. It's not about him finding you — it's about him ordering at nine at night so it's on the counter at half eight.",
+        "likelyReply": "Never thought of it like that. / Still don't see it.",
+        "followUp": "Ask the night-before-order discovery question directly if it hasn't come up yet.",
+        "whenToStop": "If he's genuinely not interested in capturing that trade, don't push — offer the free Google category fix and leave the door open."
+      },
+      {
+        "id": "kenon-ten-a-week",
+        "objection": "We get ten calls like this a week.",
+        "meaning": "Fatigue with generic cold callers, not a rejection of the idea. This is the moment to prove you're not one of them.",
+        "response": "I know, and most of them opened with \"you haven't got a website\". I opened with Plumb Centre paying to sit above you on your own name. Type your name into Google while I'm on the phone — I'll wait.",
+        "likelyReply": "(They check, and see it.) / Alright, fair enough.",
+        "followUp": "Once they've seen it, move straight to the review arithmetic (57 at 4.5 vs 9 at 4.2).",
+        "whenToStop": "Only offer this if you're certain the Wolseley advert is currently live — check before the call, not during it."
+      },
+      {
+        "id": "kenon-still-here-in-a-year",
+        "objection": "How do I know you'll still be here in a year?",
+        "meaning": "A fair question about risk, not hostility. Answer it straight rather than getting defensive.",
+        "response": "Fair question. It's a one-off four hundred, so you're not tied to me monthly, and the site is yours — domain, files, the lot. If I vanished tomorrow any developer could pick it up. That's deliberate.",
+        "likelyReply": "Okay, that's reasonable. / Still not sure.",
+        "followUp": "Move to the demo offer — showing the actual page does more to build trust than more words will.",
+        "whenToStop": "If they remain unconvinced after a straight answer, don't over-argue it — offer to send the example anyway."
+      },
+      {
+        "id": "kenon-who-else",
+        "objection": "Who else have you done this for?",
+        "meaning": "A reference check. Never invent a client to answer it — a fabricated reference is fatal if checked and destroys the whole call.",
+        "response": "I'll be straight with you — I'm building this up, so you'd be an early one, and that's exactly why you'll get more of my attention than an agency would give you. Judge me on the work: let me show you what I'd do for you before you decide anything.",
+        "likelyReply": "Fair enough. / I'd rather see someone else's first.",
+        "followUp": "Move straight to the demo offer — the work is the reference.",
+        "whenToStop": "If they insist on seeing existing client work you don't have, be honest that you don't have it yet rather than stretching the truth."
+      },
+      {
+        "id": "kenon-cant-compete-screwfix",
+        "objection": "We can't compete with Screwfix.",
+        "meaning": "A comparison on the wrong axis — price and range, where a big chain always wins. Move the comparison to trust and knowledge instead.",
+        "response": "You can't and you shouldn't try. Nobody's reviewing Screwfix saying the staff really knew their stuff. Fifty-seven people said that about you. I just want that visible before someone drives past you to Selco.",
+        "likelyReply": "Suppose that's true. / They're just cheaper though.",
+        "followUp": "Quote a real review theme back if you have one — staff knowledge, deep stock, fair prices.",
+        "whenToStop": "If cost is genuinely the deciding factor for their customers and not service, be honest that this may not shift much — don't oversell it."
+      },
+      {
+        "id": "kenon-road-demolished",
+        "objection": "They might knock this road down anyway.",
+        "meaning": "Anxiety about the Old Kent Road regeneration, dressed as a reason not to bother. Turn the redevelopment into the argument for building something, not against it.",
+        "response": "They might rebuild round you — but you're still going to be here, and there'll be thousands more people who need what you sell and have never heard of you. That's the argument for it, not against.",
+        "likelyReply": "Never thought of it that way.",
+        "followUp": "Reference the 2024 premises purchase in sentiment only — never quote the £318,000 figure on a call, it reads as surveillance.",
+        "whenToStop": "N/A — this rarely ends the conversation once reframed."
+      },
+      {
+        "id": "kenon-on-the-counter",
+        "objection": "I'm on the counter, I haven't got time.",
+        "meaning": "Literally true in the moment, not a brush-off. Believe it and offer a specific, informed time rather than a vague follow-up.",
+        "response": "Understood — you've got someone waiting. Quick one: are you quieter after two on a Saturday? I'll ring you then, and it'll take four minutes.",
+        "likelyReply": "Yeah, Saturday afternoon's fine. / Try next week instead.",
+        "followUp": "Confirm the exact day and time before hanging up — Saturday after 2pm is the best-known quiet window for this business.",
+        "whenToStop": "N/A — always worth a specific callback time here rather than giving up."
+      },
+      {
+        "id": "kenon-facebook",
+        "objection": "We don't want to be on Facebook.",
+        "meaning": "A pre-emptive objection to something that was never being suggested. Agree immediately and move on — don't waste the call defending a pitch you didn't make.",
+        "response": "Nor would I in your position — I'm not suggesting it. Social media doesn't sell copper tube. This is just about the people already searching for you.",
+        "likelyReply": "Oh, right, fair enough.",
+        "followUp": "Return to the Google/Wolseley angle immediately.",
+        "whenToStop": "N/A — this should resolve in one line."
+      }
+    ],
+    "customNodes": [
+      {
+        "id": "obj-google-customers",
+        "theySay": "We already come up first on Google, if anything.",
+        "whatISay": "You do, and that's exactly why this is worth five minutes. You've done the hard part. What you haven't got is anywhere for those people to land — and Plumb Centre is paying Google to sit above you on your own name. You've got fifty-seven reviews at four and a half stars against their nine at four point two, and they're still winning that click.",
+        "goal": "Agree with the true thing completely, then reveal the specific gap — never argue that they're invisible when they're not."
+      },
+      {
+        "id": "obj-word-of-mouth",
+        "whatISay": "Word of mouth is why you've got fifty-seven reviews at four and a half stars. All I'd do is put that where the next customer can see it — it's the same word of mouth, just working when the shop's shut.",
+        "goal": "Reframe word of mouth as the asset, not the alternative to a website."
+      },
+      {
+        "id": "obj-dont-need-website",
+        "whatISay": "Fair enough — I won't try and change your mind. One thing though: Google's got you filed as a general contractor rather than a plumbers' merchant. I'll get that corrected for you, no charge, no strings, whether you buy anything or not. Who should I confirm it to once it's done?",
+        "goal": "Trade a genuine, unconditional favour for a name and a way back in — never push past a clear no."
+      },
+      {
+        "id": "obj-dont-want-to-deal",
+        "theySay": "Who's going to keep it updated?",
+        "whatISay": "Nobody, and that's the point — it's built so it doesn't need updating. Your hours, what you stock, your reviews, how to reach you. Set it up once. If you ever want something changed, you ring me.",
+        "goal": "Remove the imagined ongoing work entirely."
+      },
+      {
+        "id": "obj-no-budget",
+        "whatISay": "It's four hundred pounds, once. That's less than a day's takings and there's nothing monthly attached to it. If it's still not right for you at that, it's genuinely not a budget problem and I'll stop asking.",
+        "goal": "Name the number before they imagine a bigger one."
+      },
+      {
+        "id": "pricing-expensive",
+        "theySay": "Four hundred? What's the catch?",
+        "whatISay": "No catch, and no monthly tie-in. I'm one person, not an agency with an office in the city, so you're not paying for anyone's overheads. You own it outright when it's done.",
+        "goal": "A price question dressed as scepticism is still a buying signal — answer it plainly."
+      },
+      {
+        "id": "obj-think",
+        "theySay": "Leave it with me — ring me after Christmas.",
+        "whatISay": "No problem. One thing — you're fifty years old in November. If there's ever a moment to have something up, it's that, not January. Can I put fifteen minutes in for next Tuesday, and if you still think no, you'll never hear from me again?",
+        "goal": "Never accept an open-ended delay — use the real anniversary to propose a specific near date instead."
+      },
+      {
+        "id": "obj-send-email",
+        "whatISay": "Course. I'll send you the screenshot of that Plumb Centre advert sitting above you — it's worth seeing either way. What's the best address? And I'll ring you Thursday morning about half ten, once you've had a look.",
+        "goal": "Accept the email request, but attach a specific, useful thing and a named follow-up time."
+      },
+      {
+        "id": "obj-tried-before",
+        "whatISay": "I believe you, and most of them didn't. A brochure page nobody found does nothing. The difference now is you've already got fifty-seven reviews and the top map listing — the traffic exists. There's just nowhere for it to go.",
+        "goal": "Separate \"websites don't work\" from \"that website didn't work\" using their own strong numbers."
+      },
+      {
+        "id": "obj-already-use-someone",
+        "theySay": "My nephew does websites.",
+        "whatISay": "Then get him to do it — seriously. Ask him about claiming the Google listing and getting the category fixed, that's the bit that actually brings people in. If it's been talked about for a while and hasn't happened, give me a ring.",
+        "goal": "Never rubbish the nephew — hand back a genuinely useful task and leave the door open for when it stalls."
+      },
+      {
+        "id": "obj-call-another-time",
+        "whatISay": "Course I can. Is Saturday afternoon after two any good? I know you're open till five and it's usually quieter than the week.",
+        "goal": "Offer a specific, informed time rather than a vague \"whenever suits\"."
+      },
+      {
+        "id": "callback-arrange",
+        "whatISay": "No problem at all. Saturday afternoon after two is usually a quieter time for a shop like this — does that work, or is there a better day for you?",
+        "goal": "Pin a specific day and time before hanging up, using what's already known about their week."
+      },
+      {
+        "id": "gatekeeper",
+        "theySay": "This isn't Sam — can I help, or take a message?",
+        "whatISay": "No problem — I won't take your time, it's about their Google listing, more Sam's end of it. Is he about?",
+        "goal": "If it's Ken who's answered, stay warm and brief and ask for Sam by name rather than pitching Ken directly."
       }
     ]
   }
