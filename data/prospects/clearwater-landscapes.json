@@ -1,0 +1,47 @@
+{
+  "id": "clearwater-landscapes",
+  "companyName": "Clearwater Landscapes",
+  "businessType": "Landscaping & Garden Design",
+  "location": "KT2",
+  "contactName": "Priya",
+  "phone": "020 0000 0000",
+  "website": "clearwaterlandscapes-example.co.uk",
+  "social": "Instagram, posted this week",
+  "googleBusinessProfile": "Yes — well maintained",
+  "websiteStatus": "good",
+  "websiteObservations": "Modern site, works well on a phone, decent photography, clear enquiry form and prices for design consultations. Genuinely well put together — there is no obvious problem to solve here.",
+  "opportunity": "low",
+  "isExample": true,
+  "source": "file",
+  "research": {
+    "summary": "Landscaping and garden design company with a strong online presence: a good modern website, active Instagram, well-maintained Google profile and a booked-up schedule. Included deliberately as an example of a prospect where the honest answer is that there is no opportunity — the tool should help you qualify out politely rather than push.",
+    "observations": [
+      "Website is modern, fast and works properly on mobile",
+      "Enquiry form and consultation pricing already on the site",
+      "Instagram is active and the photography is good",
+      "Google profile is complete and reviewed recently"
+    ],
+    "problems": [
+      "No obvious problem — this is the point of including them",
+      "At most, they may be booked up and not looking for more work"
+    ],
+    "opportunities": [
+      "Very little. Possibly a conversation in future if they expand",
+      "Worth a short, respectful call and a clean exit"
+    ],
+    "talkingPoints": [
+      "Tell them honestly that their site is already doing its job",
+      "Ask once whether they're looking for more work — if not, leave it",
+      "A professional exit here is the right outcome"
+    ],
+    "notes": [
+      "EXAMPLE DATASET — written to demonstrate the tool, not researched",
+      "Use this one to practise disqualifying without pushing"
+    ]
+  },
+  "script": {
+    "opening": "Hi, is that Priya? It's Ollie from NexalField. Quick one and I'll be honest with you — I ring local businesses about their websites, and yours is already one of the better ones I've seen, so this might be a short call. Have you got twenty seconds?",
+    "hook": "I build websites for local businesses around KT2. Normally I'm ringing because there's something obviously missing — in your case there isn't, so the only thing worth asking is whether you're looking to take on more work at the minute or whether you're comfortable as you are.",
+    "valueStatement": "Honestly, your site's doing its job. The only thing I'd ever look at for a business like yours is whether the enquiries coming in are the right kind of work rather than just more of it — and that's a different conversation to the one I usually have."
+  }
+}

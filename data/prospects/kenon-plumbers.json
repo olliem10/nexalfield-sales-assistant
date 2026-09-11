@@ -1,0 +1,93 @@
+{
+  "id": "kenon-plumbers",
+  "companyName": "Kenon Plumbers Merchants",
+  "businessType": "Plumbers Merchant",
+  "location": "SW14",
+  "contactName": "Kenon",
+  "phone": "020 0000 0000",
+  "website": "",
+  "social": "Facebook page, last posted a while ago",
+  "googleBusinessProfile": "Yes — listed with reviews",
+  "websiteStatus": "none",
+  "websiteObservations": "No website found. Google Business Profile is the only real presence, plus a Facebook page that hasn't been updated recently. Nowhere for a customer to see stock, opening hours, delivery or trade account information.",
+  "opportunity": "high",
+  "isExample": true,
+  "source": "file",
+  "research": {
+    "summary": "Independent plumbers merchant serving trade and walk-in customers in the SW14 area. Long-standing local business with a solid reputation on Google, but no website at all — everything online rests on the Google listing and an inactive Facebook page. Trade customers and local landlords looking for stock, opening times or a trade account have nowhere to go except the phone.",
+    "observations": [
+      "No website of any kind — searching the name returns the Google listing and directory entries",
+      "Google Business Profile is claimed and has genuine reviews",
+      "Facebook page exists but hasn't been posted on recently",
+      "Nearby merchants and the national chains all have sites showing stock and opening hours",
+      "Business appears well established and busy during weekday mornings"
+    ],
+    "problems": [
+      "Nowhere for a customer to check opening hours, delivery or whether something is in stock",
+      "Every enquiry has to come through the phone, which is a job on a busy trade counter",
+      "New trade customers have no way to see what the business offers before turning up",
+      "Recommendations get searched for and find almost nothing"
+    ],
+    "opportunities": [
+      "Simple site covering what they stock, hours, location, delivery and trade accounts",
+      "An enquiry form that takes pressure off the counter phone",
+      "Something to link from the Google listing so searches land somewhere useful",
+      "Competitors in the area already have this — it's a gap, not a luxury"
+    ],
+    "talkingPoints": [
+      "People are already searching for them — the reviews prove it",
+      "The phone is doing a job a web page could do for free, all day",
+      "Trade customers want opening hours and stock before they drive over",
+      "Not about a fancy site — about not losing the people who already looked them up"
+    ],
+    "notes": [
+      "EXAMPLE DATASET — written to demonstrate the tool, not researched",
+      "Independent, not part of a chain, so decisions are likely made by the owner",
+      "Best time to ring is probably mid-morning after the early trade rush"
+    ]
+  },
+  "script": {
+    "opening": "Hi, is that Kenon? It's Ollie calling from NexalField. I know this is out of the blue so I'll keep it really quick — I was looking at your business online and noticed you don't seem to have a website, and I had an idea I thought could be useful for you. Have I caught you at an alright time for thirty seconds?",
+    "hook": "I build websites for local businesses around SW14. The reason I rang you specifically is that you've clearly got people searching for you — you've got the reviews on Google — but when they find you there's nowhere to see what you stock, what your hours are or whether you deliver. For a merchants that's usually a lot of phone calls that didn't need to happen. Can I ask you something quickly?",
+    "valueStatement": "The reason I noticed you specifically is that you've already got people searching for you and ringing you — that's the hard part and you're doing it. What's missing is somewhere they can land and see what you stock, when you're open and whether you deliver, without tying up your counter phone. That's the whole job really — not a fancy website, just somewhere for the people who are already looking.",
+    "demoOffer": "What I'd actually like to do is put together a quick example for Kenon Plumbers Merchants — your stock, your hours, the area you cover. It takes me about fifteen minutes and then I can show you exactly what I had in mind. If you like it, great. If you don't, no problem at all.",
+    "discovery": [
+      {
+        "id": "kenon-how-found",
+        "question": "How do customers normally find you at the moment — is it mostly trade who already know you, or do you get new people coming in?",
+        "why": "Easy opener and it tells you whether they're relying entirely on regulars.",
+        "listenFor": [
+          "\"Mostly regulars\" — ask what happens when a regular retires or moves",
+          "\"People find us on Google\" — that's the opening"
+        ]
+      },
+      {
+        "id": "kenon-phone",
+        "question": "Do you get a lot of people ringing up just to ask what's in stock or what time you're open?",
+        "why": "This is the pain point for a merchant. Let them describe it themselves.",
+        "listenFor": [
+          "Any sigh or laugh here is the sale",
+          "\"All day\" — that's the value statement written for you"
+        ]
+      },
+      {
+        "id": "kenon-ask-site",
+        "question": "Do customers ever ask whether you've got a website?",
+        "why": "Lets them tell you about the gap rather than you pointing it out.",
+        "listenFor": ["\"Now and then\" is a yes"]
+      },
+      {
+        "id": "kenon-trade-accounts",
+        "question": "Do you do trade accounts or deliveries? How do people normally find that out?",
+        "why": "Surfaces the information that's currently locked in someone's head.",
+        "listenFor": ["If the answer is 'they ring and ask', that's the problem in one sentence"]
+      },
+      {
+        "id": "kenon-more-work",
+        "question": "Are you looking to bring in more trade customers at the moment, or are you comfortable as you are?",
+        "why": "Qualifies honestly. If they're flat out, say so and exit well.",
+        "listenFor": ["\"We'd always take more\" — move to the value statement"]
+      }
+    ]
+  }
+}

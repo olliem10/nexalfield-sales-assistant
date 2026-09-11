@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --blush: #f8d7e6;
+    --blush-deep: #f3c5d8;
+    --ink: #1a1a1a;
+  }
+
+  html,
+  body {
+    @apply bg-canvas text-ink antialiased;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    font-feature-settings: "cv11", "ss01";
+  }
+
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  ::selection {
+    background: var(--blush);
+    color: var(--ink);
+  }
+
+  input,
+  textarea,
+  select {
+    @apply text-ink;
+  }
+}
+
+@layer components {
+  .nf-label {
+    @apply text-[11px] font-semibold uppercase tracking-[0.14em] text-ink-faint;
+  }
+
+  .nf-card {
+    @apply rounded-2xl border border-line bg-surface shadow-card;
+  }
+
+  .nf-field {
+    @apply w-full rounded-xl border border-line bg-white px-3.5 py-2.5 text-[15px] leading-snug
+      outline-none transition placeholder:text-ink-faint
+      focus:border-blush-300 focus:ring-4 focus:ring-blush-100/60;
+  }
+
+  .nf-scroll {
+    scrollbar-width: thin;
+  }
+
+  .nf-scroll::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  .nf-scroll::-webkit-scrollbar-thumb {
+    @apply rounded-full bg-line;
+  }
+}

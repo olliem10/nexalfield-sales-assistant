@@ -1,0 +1,55 @@
+{
+  "id": "westfield-autocare",
+  "companyName": "Westfield Autocare",
+  "businessType": "Garage / MOT Centre",
+  "location": "TW9",
+  "contactName": "Dave",
+  "phone": "020 0000 0000",
+  "website": "westfieldautocare-example.co.uk",
+  "social": "Facebook page, posts every few weeks",
+  "googleBusinessProfile": "Yes — strong reviews",
+  "websiteStatus": "outdated",
+  "websiteObservations": "Website exists but looks like it was built years ago. Not mobile friendly — text is tiny on a phone and the phone number isn't tappable. No online booking for MOTs, no prices, and the opening hours on the site contradict the Google listing.",
+  "opportunity": "medium",
+  "isExample": true,
+  "source": "file",
+  "research": {
+    "summary": "Independent garage and MOT centre with a good local reputation and strong Google reviews. They already have a website, but it's clearly several years old, doesn't work properly on a phone, and doesn't let anyone book an MOT. Most of their customers find them on Google and then land on a page that's hard to use.",
+    "observations": [
+      "Website loads but isn't mobile friendly — most of their traffic will be on a phone",
+      "Phone number on the site isn't clickable",
+      "Opening hours on the website don't match the Google listing",
+      "No MOT booking or enquiry form anywhere",
+      "Google reviews are recent and positive, so people are definitely finding them"
+    ],
+    "problems": [
+      "People search on a phone, tap through, and have to pinch and zoom to read anything",
+      "Conflicting opening hours cost them trust and wasted journeys",
+      "No way to book or enquire outside of ringing during working hours",
+      "The site makes an established garage look less professional than it is"
+    ],
+    "opportunities": [
+      "Rebuild as a fast mobile-first page with a tappable phone number",
+      "Simple MOT booking / enquiry form that captures out-of-hours interest",
+      "Bring the site in line with the Google listing",
+      "Put the reviews front and centre — they're the strongest asset they have"
+    ],
+    "talkingPoints": [
+      "They are being found already — this is about not losing those people",
+      "Most people looking up a garage are standing next to a car on their phone",
+      "A missed evening enquiry is a missed MOT",
+      "Their reviews are better than their website suggests"
+    ],
+    "notes": [
+      "EXAMPLE DATASET — written to demonstrate the tool, not researched",
+      "They already paid for a site once, so expect \"we've already got one\"",
+      "Don't lead with the site being bad — ask whether it brings them work"
+    ]
+  },
+  "script": {
+    "opening": "Hi, is that Dave? It's Ollie calling from NexalField. I know this is out of the blue so I'll be quick — I was looking at Westfield Autocare online, had a look at your website, and there was one thing I thought might be costing you enquiries. Have I caught you at an alright time for thirty seconds?",
+    "hook": "I build websites for local businesses around TW9. The reason I rang you rather than anyone else is that your Google reviews are genuinely good, so people are finding you — but when they tap through on their phone the site's quite hard work, and there's no way to book an MOT. Can I ask you something quickly?",
+    "valueStatement": "You've already got the bit that most garages struggle with — people are searching for you and the reviews are there. The bit that's letting you down is what happens in the next ten seconds, when they tap through on a phone and can't easily read it or book anything. That's the whole job — make that ten seconds work for you.",
+    "demoOffer": "What I'd like to do is rebuild your homepage as an example — same business, just how it'd look on a phone with an MOT booking on it. Fifteen minutes of my time, then you can look at the two side by side. If you prefer what you've got, fair enough."
+  }
+}
