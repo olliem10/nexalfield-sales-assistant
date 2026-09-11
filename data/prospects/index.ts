@@ -3,6 +3,7 @@ import kenonPlumbers from "./kenon-plumbers.json";
 import westfieldAutocare from "./westfield-autocare.json";
 import clearwaterLandscapes from "./clearwater-landscapes.json";
 import thePlumbingMerchant from "./the-plumbing-merchant.json";
+import mgmPlumbingSupplies from "./mgm-plumbing-supplies.json";
 
 /**
  * Prepared prospects that live in the repo.
@@ -13,6 +14,7 @@ import thePlumbingMerchant from "./the-plumbing-merchant.json";
 export const FILE_PROSPECTS: Prospect[] = [
   kenonPlumbers as Prospect,
   thePlumbingMerchant as Prospect,
+  mgmPlumbingSupplies as Prospect,
   westfieldAutocare as Prospect,
   clearwaterLandscapes as Prospect,
 ];
