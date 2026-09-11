@@ -25,7 +25,7 @@ export function AppShell({ children }: { children: ReactNode }) {
           <nav className="flex items-center gap-1 text-[13px]">
             <Link
               href="/"
-              className="rounded-lg px-3 py-1.5 font-medium text-ink-muted transition-colors hover:bg-canvas hover:text-ink"
+              className="hidden rounded-lg px-3 py-1.5 font-medium text-ink-muted transition-colors hover:bg-canvas hover:text-ink sm:inline"
             >
               Prospects
             </Link>
