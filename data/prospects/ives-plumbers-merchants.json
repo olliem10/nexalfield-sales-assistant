@@ -1,0 +1,87 @@
+{
+  "id": "ives-plumbers-merchants",
+  "companyName": "Ives Plumbers Merchants Ltd",
+  "businessType": "Plumbers' Merchant",
+  "location": "SW16",
+  "contactName": "Gary",
+  "phone": "020 8835 0311",
+  "website": "",
+  "social": "Not researched in depth — see the financial disqualification below",
+  "googleBusinessProfile": "Appears unclaimed; 4.2★ from 19 reviews on Google, zero ratings on Yell",
+  "websiteStatus": "none",
+  "websiteObservations": "No website (ivesplumbersmerchants.co.uk returns no DNS record); Google profile appears unclaimed; correct Google category; Yell shows zero ratings against Google's 19. On the digital evidence alone this would look like a normal, callable prospect — but the accounts disqualify it (see below).",
+  "opportunity": "low",
+  "source": "file",
+  "research": {
+    "summary": "Ives Plumbers Merchants Ltd, 378–380 Streatham High Road, SW16, incorporated 2007, two employees. DO NOT CALL THIS BUSINESS: shareholders' funds are negative £90,798 at the most recent filing, with only £7,867 in the bank, down from £12,629 the year before — a balance-sheet-insolvent business. Everything else about it looks like a decent prospect on the surface: 4.2 stars from 19 reviews, no website, correct Google category, a named owner (Gary Ives) warmly mentioned in customer reviews, clearly on the counter himself. That is exactly the trap the wider research batch was built to catch — the digital audit says yes and the accounts say no, and the accounts win every time. The registered office is an accountancy practice in Croydon, not the shop, and the company's own SIC code (82990, \"other business support service activities\") isn't even a plumbing or merchant code. Included in this pipeline for completeness and financial record-keeping only, not as a live prospect to call.",
+    "observations": [
+      "Shareholders' funds are negative £90,798 at the most recent filing — a balance-sheet-insolvent business",
+      "£7,867 in the bank, down from £12,629 the year before",
+      "Two employees, husband-and-wife business — Gary Ives (director since 2007) named warmly in customer reviews as the man on the counter; Carol Ives is company secretary",
+      "Registered office is an accountancy practice in Croydon, not the shop",
+      "SIC code is 82990 (\"other business support service activities\") — not a plumbing or merchant code at all, so the business is miscategorised even on its own statutory record",
+      "On the digital evidence alone (4.2/19 reviews, no website, correct Google category) this would otherwise look like a normal, callable prospect"
+    ],
+    "problems": [
+      "Not applicable in the normal sense — the business is not a candidate for a discretionary £400 purchase given its financial position, regardless of any genuine digital gap"
+    ],
+    "opportunities": [
+      "None for a discretionary purchase at this time — any opportunity here depends on the business first resolving its financial position, which is outside the scope of a website sale"
+    ],
+    "talkingPoints": [
+      "If a call ever happens, the honest, respectful line is to acknowledge their reviews and reputation without pushing toward a sale they cannot currently justify"
+    ],
+    "notes": [
+      "REAL RESEARCH — sourced from Companies House, Google and Yell, compiled 11 Sep 2026, as part of a five-business batch. THE DOSSIER'S EXPLICIT RECOMMENDATION IS: DO NOT CALL.",
+      "This business is balance-sheet insolvent (net assets −£90,798, £7,867 cash at bank). A business in this position is not a realistic buyer for a discretionary £400 marketing purchase, whatever the digital audit otherwise suggests. This entry exists in the pipeline for record-keeping and completeness only.",
+      "The wider lesson from this research batch: a two-minute check of net assets, cash at bank and employee count on Companies House, done before deep research, would have disqualified this prospect immediately and saved the research time.",
+      "If a call is made anyway: the dossier's own guidance is to do it last, expect nothing, and not invest research or build a free mockup. Honest odds: 8/10 getting through, 3/10 booking a meeting, 1/10 closing.",
+      "Gary Ives (director since 2007, age 64, 75%+ shareholder) is named warmly in reviews and is almost certainly the man who answers the phone."
+    ]
+  },
+  "script": {
+    "opening": "Morning — is Gary about? ... You don't know me, and I'll be straight with you — this is a cold call. Thirty seconds, and if it's no use I'll go away.",
+    "hook": "I had a look at plumbers' merchants in the Streatham area, and yours came up well — decent reviews, no website. I won't take much of your time.",
+    "valueStatement": "What I normally do is a small, one-off site — what you stock, your hours, your reviews on it. That's about the size of it.",
+    "demoOffer": "I wouldn't want to put anything together without knowing it's the right time for you first — is this something that would even be useful at the moment?",
+    "pricing": "It's four hundred pounds, once, if it's ever the right time — but I get the sense that's a bigger question than the website itself.",
+    "discovery": [
+      {
+        "id": "ives-how-things-going",
+        "question": "How are things going for the business at the moment generally?",
+        "why": "An honest, open question that gives him room to raise financial pressure himself, rather than you probing for it.",
+        "listenFor": ["Any mention of things being tight, difficult, or uncertain confirms the research and points toward a quick, respectful exit"]
+      },
+      {
+        "id": "ives-taking-on-more",
+        "question": "Are you looking to take on more work at the moment, or is it more about keeping things steady?",
+        "why": "A gentle qualifying question that respects wherever the honest answer lands.",
+        "listenFor": ["Any answer focused on stability rather than growth supports a quick, low-pressure close"]
+      }
+    ],
+    "extraObjections": [
+      {
+        "id": "ives-not-a-good-time",
+        "objection": "Now's really not a good time for anything like that.",
+        "meaning": "Take this completely at face value — the financial research supports it directly.",
+        "response": "That's completely understood, and thanks for being straight with me. I won't take up any more of your time.",
+        "likelyReply": "Appreciate that, thanks.",
+        "followUp": "End the call warmly and do not follow up — the research does not support investing further time here.",
+        "whenToStop": "Immediately — this is exactly the expected, correct outcome for this business."
+      }
+    ],
+    "customNodes": [
+      {
+        "id": "obj-no-budget",
+        "theySay": "We haven't really got the budget for anything like that.",
+        "whatISay": "That's completely understood — no pressure at all. Thanks for your time.",
+        "goal": "Take this at face value immediately and exit gracefully. The research confirms genuine financial pressure here — this is not a business to push."
+      },
+      {
+        "id": "no-fit-exit",
+        "whatISay": "No problem at all — thanks for taking the call, and all the best with everything.",
+        "goal": "Reach a clean, respectful exit as quickly and naturally as the conversation allows."
+      }
+    ]
+  }
+}

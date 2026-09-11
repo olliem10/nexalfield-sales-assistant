@@ -1,0 +1,129 @@
+{
+  "id": "centre-plumbing-heating",
+  "companyName": "Centre Plumbing & Heating",
+  "businessType": "Plumbers' Merchant",
+  "location": "W1H",
+  "contactName": "",
+  "phone": "020 7724 0077",
+  "website": "",
+  "social": "None found",
+  "googleBusinessProfile": "None found — searching the exact name, address and phone number together returns no business listing, no knowledge panel and no local result. Exists online only as a Yell entry with zero ratings, plus scraped directory clones",
+  "websiteStatus": "unknown",
+  "websiteObservations": "The most digitally invisible business researched in this whole pipeline. No website, no Google Business Profile, no reviews anywhere. Unlike every other prospect, there is no existing reputation to point to — you can't tell a stranger \"you're brilliant and nobody can see it\", only \"nobody can see you\", which is a much harder opening with someone you've never spoken to.",
+  "opportunity": "medium",
+  "source": "file",
+  "research": {
+    "summary": "A plumbers' merchant at 47 Crawford Street, Marylebone W1H, open 08:00–18:30, that is entirely invisible online — no website, no Google Business Profile, no reviews on any platform. IMPORTANT VERIFICATION GAP: the legal entity behind this shop could not be confirmed. Yell lists the trading name as \"Centre Plumbing & Heating\" at number 47; the only plausible registered match found was Central Plumbing & Heating (London) Ltd (08048234), director Maha Al-Mekari, at 47a Crawford Street — note \"Centre\" vs \"Central\" and 47 vs 47a. It is probably the same business, but probably is not good enough to act on. Nothing about the owner, staff, or finances of the actual shop at 47 could be verified. This means the first call must be treated as pure discovery and qualification — find out who owns it and what the trading name actually is, from their own mouth, before assuming or asserting anything.",
+    "observations": [
+      "No Google Business Profile at all — searching the exact name, address and phone number returns no listing, no knowledge panel, no local result",
+      "Exists online only via a Yell entry with zero ratings, plus a handful of scraped directory clones",
+      "The registered entity is unconfirmed: Yell's trading name (\"Centre Plumbing & Heating\", no. 47) does not exactly match the only plausible nearby company found (Central Plumbing & Heating (London) Ltd, no. 47a) — different spelling, different number",
+      "That plausible entity, if it is the same business, was incorporated in 2012, has nothing overdue, and is directed by Maha Al-Mekari",
+      "Open 08:00–18:30 — a genuinely long trading day, longer than several other prospects researched",
+      "No evidence either way of whether this is a thriving business that simply never bothered with a digital presence, or a struggling one — this cannot be told from outside"
+    ],
+    "problems": [
+      "Complete digital invisibility means anyone researching plumbers' merchants in the area has no way to find or evaluate this business at all",
+      "No reviews anywhere means no way to build trust with a new customer before they walk in or call"
+    ],
+    "opportunities": [
+      "Being this invisible is unusual for a central London merchant — if there is genuine trade being missed, a basic web presence would be a large relative improvement",
+      "No competing false information exists yet (unlike some other prospects), so there's nothing to correct, only something to build"
+    ],
+    "talkingPoints": [
+      "I looked you up and couldn't find anything about you online at all — no website, no Google listing, nothing. That's unusual for a shop in this part of London.",
+      "I wanted to check I've even got the right business — is this Centre Plumbing & Heating at 47 Crawford Street?"
+    ],
+    "notes": [
+      "REAL RESEARCH — sourced from Companies House, Google, Yell and directory scrapes, compiled 11 Sep 2026, as part of a five-business batch. This entry carries an explicit, unresolved verification gap — read this before calling.",
+      "VERIFICATION GAP: the trading name (\"Centre Plumbing & Heating\") and the only plausible registered company found (\"Central Plumbing & Heating (London) Ltd\", a different spelling, at 47a not 47) do not exactly match. It is probably the same business, but this is not confirmed. DO NOT use the director's name (Maha Al-Mekari) on the call — ring, ask who owns it, and confirm the trading name and address from their own mouth before assuming anything.",
+      "No name to ask for is known — the opening should ask who owns the shop or who's the best person to speak to, rather than asking for a specific person.",
+      "TREAT THE FIRST CALL AS PURE DISCOVERY, not a pitch. The realistic goal of call one is finding out who owns it, whether the trading name and address are correct, and whether there's any real appetite — not booking a demo or closing anything.",
+      "There is no existing reputation to open with, unlike every other prospect researched — the honest opening has to be \"I couldn't find anything about you online\" rather than a flattering comparison.",
+      "Best time to call: Tuesday–Thursday 10:00–11:30, or 14:00–15:30, avoiding the early trade rush and lunch, per the general strategy for this batch.",
+      "Honest odds from the research: 7/10 chance of getting through (small central London merchant, published number), 3/10 of booking a meeting (no reviews means no flattery to open with, and this is a stranger telling them they don't exist online), 2/10 of closing given financials and ownership are both entirely unknown.",
+      "Never mention the £75/month or £50/month products on this call — there isn't even a confirmed decision-maker yet."
+    ]
+  },
+  "script": {
+    "opening": "Morning — could I ask who I'd need to speak to about the business itself, rather than day-to-day? ... You don't know me, and I'll be straight with you — this is a cold call. Thirty seconds, and if it's no use I'll go away.",
+    "hook": "I had a proper look for you online this morning — no website, no Google listing, nothing at all under Centre Plumbing & Heating. That's unusual for a shop in this part of London. Can I ask you something about that?",
+    "valueStatement": "What I'd normally do is small and specific — one page with what you stock, your hours, a way to get in touch, and anything customers have said about you. But before any of that, I'd want to understand a bit more about how the business actually works day to day.",
+    "demoOffer": "If it turns out there's something worth doing here, I'd suggest building a simple example first — no charge to look at it, and you decide from there. But the honest next step is just understanding your business a bit better first.",
+    "pricing": "If we get that far, it's four hundred pounds, once — nothing monthly, no contract. But let's see if this is even the right fit first.",
+    "discovery": [
+      {
+        "id": "centre-is-it-your-shop",
+        "question": "Is it your shop, or do you work for someone?",
+        "why": "The essential qualifying question here — nothing else in this call matters until this is answered, given the ownership is entirely unconfirmed.",
+        "listenFor": ["\"It's mine\" opens the whole call up", "\"I just work here\" — ask who the owner is and how best to reach them"]
+      },
+      {
+        "id": "centre-confirm-name",
+        "question": "Just to check I've got this right — is the business called Centre Plumbing & Heating, and is this 47 Crawford Street?",
+        "why": "Directly resolves the name/address verification gap from the research, in a completely natural way.",
+        "listenFor": ["Any correction to the name or address is important — note it exactly, don't guess"]
+      },
+      {
+        "id": "centre-how-long-here",
+        "question": "How long has the business been on Crawford Street?",
+        "why": "Basic rapport and a first read on whether this is a stable, established operation.",
+        "listenFor": ["Any long tenure suggests a business that's simply never needed to be found online, not one in trouble"]
+      },
+      {
+        "id": "centre-new-customer-from",
+        "question": "Where does a new customer usually come from?",
+        "why": "The core discovery question — tells you whether there's any real online opportunity or whether this business genuinely runs entirely on account trade and passing footfall.",
+        "listenFor": ["\"They just know us\" or pure account-trade answers suggest a genuinely low-opportunity business, not a failure to communicate"]
+      },
+      {
+        "id": "centre-taking-more-work",
+        "question": "Are you looking to take on more work at the moment, or are you comfortable as things are?",
+        "why": "A direct, honest qualifying question — if they're genuinely not looking for more, that's a legitimate, respectable answer.",
+        "listenFor": ["Any lack of interest here should be taken at face value, not pushed past"]
+      }
+    ],
+    "extraObjections": [
+      {
+        "id": "centre-who-are-you",
+        "objection": "Who are you and how did you get this number?",
+        "meaning": "A perfectly fair question given you're a stranger with no prior relationship or referral.",
+        "response": "Fair question — I'm Ollie, I run a small outfit called NexalField, I build websites for local businesses. I found your number the same way anyone else would, searching for plumbers' merchants round here — which is actually the whole reason I rang.",
+        "likelyReply": "Right, okay.",
+        "followUp": "Move into the qualifying question about whether it's their shop.",
+        "whenToStop": "If they remain suspicious or unwilling to engage, thank them and end the call politely — there's no existing relationship or reputation to fall back on here."
+      },
+      {
+        "id": "centre-not-interested",
+        "objection": "We're not interested, thanks.",
+        "meaning": "With no existing evidence of opportunity or need, take this seriously rather than pushing past it.",
+        "response": "No problem at all — appreciate you taking the call. If that ever changes, you've got my number.",
+        "likelyReply": "Will do, thanks.",
+        "followUp": "End the call politely — this is a legitimate, low-effort disqualification given how little is known about this business.",
+        "whenToStop": "Immediately — there's no strong evidence base here to justify pushing further."
+      }
+    ],
+    "customNodes": [
+      {
+        "id": "obj-google-customers",
+        "whatISay": "Actually, when I looked, I couldn't find you on Google at all — no listing, nothing. That's part of why I rang.",
+        "goal": "Unlike other prospects, there's no existing Google presence to credit — be honest about that."
+      },
+      {
+        "id": "obj-dont-need-website",
+        "whatISay": "That's a fair position, and I don't know enough about your business yet to argue with it. Can I just ask a couple of quick things about how you get customers at the moment?",
+        "goal": "Without any established evidence of opportunity, don't push — pivot straight to discovery instead of a persuasive pitch."
+      },
+      {
+        "id": "gatekeeper",
+        "whatISay": "No problem at all. Who would be the best person to speak to about this, and are they usually around during the week?",
+        "goal": "With ownership entirely unconfirmed, this question matters more here than for almost any other prospect."
+      },
+      {
+        "id": "obj-think",
+        "whatISay": "That's completely fine — there's no rush on this at all. I'll leave it with you.",
+        "goal": "Given how little is confirmed about this business, a soft, low-pressure close is the right outcome, not a scheduled chase."
+      }
+    ]
+  }
+}

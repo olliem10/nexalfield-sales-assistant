@@ -1,0 +1,83 @@
+{
+  "id": "the-water-shop",
+  "companyName": "The Water Shop",
+  "businessType": "Plumbers' Merchant (large, established — part of C. Anderson & Sons)",
+  "location": "SW6",
+  "contactName": "",
+  "phone": "020 7386 8888",
+  "website": "andersonandsons.co.uk/water-shop",
+  "social": "Not researched — not relevant given this business is not a fit for a £400 one-off site",
+  "googleBusinessProfile": "\"Watershop Merchant\" has its own separate Google listing, 5.0★ from 12 reviews, distinct from the parent company's 4.1★ from 578 reviews. Yell shows it separately with zero ratings",
+  "websiteStatus": "good",
+  "websiteObservations": "This business already has a modern, well-built website with a dedicated Water Shop page on andersonandsons.co.uk, and the parent company pays for sponsored placement on Yell. This is not a business that lacks an online presence — quite the opposite.",
+  "opportunity": "low",
+  "source": "file",
+  "research": {
+    "summary": "The Water Shop, at 27 Filmer Road, Fulham SW6, is the merchant arm of C. Anderson & Sons LLP, a Fulham plumbing and heating firm trading since 1966. The LLP has twenty employees, £701k net assets, and the related group company has £3.26m net assets. The parent business has 578 Google reviews at 4.1 stars, a modern website, and pays for sponsored Yell advertising. DO NOT PITCH THIS BUSINESS A £400 WEBSITE — it is a well-established, well-resourced operation many times too large for this product, included here for completeness of the research batch and so it is never mistakenly called as if it were a genuine prospect. The one narrow observation of any future relevance: \"Watershop Merchant\" has its own separate Google listing (5.0★ from 12 reviews, distinct from the parent's 4.1/578) with no dedicated site of its own beyond a page on the parent's website, and shows zero ratings on Yell — the merchant arm is under-marketed relative to the main contracting business, which could conceivably be relevant to an ongoing marketing retainer in future, but is not a cold-call opportunity today. Generational handover: Thomas and Linda Anderson stepped back as designated members in 2010; sons Crawford Anderson (44) and William Anderson (40) now run it. A staff member named Val is mentioned in reviews of the merchant arm specifically.",
+    "observations": [
+      "Twenty employees — by far the largest headcount of any prospect researched in this pipeline",
+      "£701k net assets in the LLP, £3.26m across the related group company — a well-capitalised, established business",
+      "578 Google reviews at 4.1 stars for the parent company; the Water Shop / Watershop Merchant listing separately shows 5.0 from 12",
+      "Already has a modern, professionally built website with a dedicated Water Shop page",
+      "Already pays for sponsored placement on Yell — an active marketing spender, unlike every other prospect in this batch",
+      "Watershop Merchant's own Google listing shows zero ratings on Yell, and has no dedicated website of its own beyond a page on the parent site — a narrow, minor gap, not a genuine opportunity for a £400 product",
+      "Generational handover already complete: founders Thomas and Linda Anderson stepped back in 2010, sons Crawford (44) and William (40) Anderson now run the business"
+    ],
+    "problems": [
+      "None that a £400 one-off website would meaningfully address — this business's actual gaps, if any, are in ongoing marketing management, not basic web presence"
+    ],
+    "opportunities": [
+      "None for the core NexalField product. The only narrow, longer-term observation is that the Watershop Merchant sub-brand is under-marketed relative to the main contracting business — this might be relevant to an ongoing marketing retainer (the £75/month product) at some point in the future, but is explicitly not a cold-call opportunity today"
+    ],
+    "talkingPoints": [
+      "This business already has what a typical pitch offers — a modern website, hundreds of reviews and paid search visibility — so the honest opening is to confirm that, not to sell against it."
+    ],
+    "notes": [
+      "REAL RESEARCH — sourced from Companies House, Google, Yell and the business's own website, compiled 11 Sep 2026, as part of a five-business batch that explicitly recommends NOT calling this business.",
+      "DO NOT PITCH THIS BUSINESS. The dossier's own verdict: \"A business that already buys advertising, employs twenty people and has a working website is not in the market for a £400 one-off site. Pitching them wastes your time and, worse, positions you as someone who didn't look before calling.\"",
+      "This prospect is included in the pipeline for completeness and so it is never mistakenly picked up as if it were a live opportunity — not as a call to make this week or any week, for the £400 website product.",
+      "Honest odds from the research: 6/10 chance of getting through (twenty staff means a real switchboard and gatekeeper), 2/10 of booking a meeting (\"you have nothing they need\"), 1/10 of closing (\"genuinely, don't\").",
+      "If a call ever does happen here by mistake or accident, the right outcome is a fast, honest, professional exit — not a pitch. Use the opportunity screen to mark this low and move to the no-fit exit quickly.",
+      "The one thing worth remembering for the future, not for a cold call: the Watershop Merchant sub-brand (5.0/12 reviews) is under-marketed relative to the main Anderson & Sons contracting business (4.1/578) — a possible ongoing-retainer conversation in a year's time, never a first-call pitch."
+    ]
+  },
+  "script": {
+    "opening": "Morning — I'll be honest with you, I'm not sure this call is even the right one to be making, but is there someone who looks after marketing or the website for the business?",
+    "hook": "I build simple one-off websites for smaller local merchants who don't have one yet — but looking at what you've already got here, a proper site, hundreds of reviews, I don't think that's you.",
+    "valueStatement": "Honestly, the sort of thing I do is a fairly small, one-off site for a business that doesn't have one at all. From what I can see you've already got a proper website and a strong online presence, so it probably isn't a fit.",
+    "demoOffer": "I wasn't really expecting to get this far, if I'm honest — you're already well set up online. There isn't really anything I'd suggest building for you.",
+    "pricing": "It's four hundred pounds for the kind of small one-off site I build — but given what you've already got, I don't think that's relevant here.",
+    "discovery": [
+      {
+        "id": "ws-confirm-website-satisfaction",
+        "question": "Are you happy with how the website's working for you at the moment?",
+        "why": "A single honest question to confirm what the research already shows before disqualifying cleanly.",
+        "listenFor": ["Any confirmation that the site works well is the cue to exit the call professionally and quickly"]
+      },
+      {
+        "id": "ws-anything-not-covered",
+        "question": "Is there anything about how you're found online that you feel isn't quite covered?",
+        "why": "One last honest check for a genuine gap before ending the call — respects that the research could be incomplete.",
+        "listenFor": ["Any specific, real gap named here is worth a brief, honest conversation; a vague or absent answer confirms this isn't a fit"]
+      }
+    ],
+    "customNodes": [
+      {
+        "id": "website-fine",
+        "whatISay": "That's genuinely what it looks like from the outside too — a proper site, hundreds of reviews. I don't think there's anything useful I could offer here, but thanks for taking the call.",
+        "goal": "Confirm what the research already shows and move straight to a clean, honest exit — do not manufacture a reason to continue."
+      },
+      {
+        "id": "no-fit-exit",
+        "whatISay": "Honestly, you're already well set up online — website, reviews, all of it. I'm not going to try and sell you something you don't need. Thanks for your time, and all the best.",
+        "goal": "This is the expected, correct outcome for this business. Reach it quickly and gracefully rather than looking for an angle that isn't there."
+      },
+      {
+        "id": "obj-have-website",
+        "theySay": "We've already got a website.",
+        "whatISay": "That's exactly what I'd expect from what I could see beforehand — it looks like a proper, well-built site. I don't think there's anything I'd add.",
+        "goal": "Confirm rather than probe for weaknesses — this business's website is genuinely good, unlike most other prospects."
+      }
+    ]
+  }
+}
