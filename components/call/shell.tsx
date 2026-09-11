@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useEffect } from "react";
 import type { CallStage, OpportunityRating, Prospect } from "@/lib/types";
 import { cx } from "@/components/ui/primitives";
@@ -63,9 +64,18 @@ export function CallHeader({
       <div className="mx-auto max-w-[1500px] px-4 py-3 sm:px-6">
         <div className="flex items-start justify-between gap-4">
           <div className="min-w-0">
-            <h1 className="truncate text-[18px] font-semibold uppercase leading-tight tracking-tight sm:text-[22px]">
-              {prospect.companyName}
-            </h1>
+            <div className="flex items-center gap-1.5 sm:gap-2">
+              <Image
+                src="/nexalfield-mark.png"
+                alt="NexalField"
+                width={127}
+                height={107}
+                className="h-4 w-auto shrink-0 sm:h-[18px]"
+              />
+              <h1 className="truncate text-[18px] font-semibold uppercase leading-tight tracking-tight sm:text-[22px]">
+                {prospect.companyName}
+              </h1>
+            </div>
             <div className="mt-1 flex flex-wrap items-center gap-x-3 gap-y-1 text-[12px] text-ink-muted">
               {prospect.location ? <span>{prospect.location}</span> : null}
               <span className="hidden sm:inline text-line">|</span>
